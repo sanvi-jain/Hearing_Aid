@@ -1,6 +1,3 @@
-# Hearing_Aid
-Project Echo 
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
